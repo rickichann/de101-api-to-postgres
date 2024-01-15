@@ -2,8 +2,8 @@
 
 On-going !!
 
-
-Tools :
+Section 1:
+Download and Install !!
 - Docker: https://www.docker.com/products/docker-desktop/
 - Tableplus : https://tableplus.com/
 - VS Code : https://code.visualstudio.com/
