@@ -9,7 +9,7 @@
 
 ## Section 2: Setup
 - Copy the `docker-compose.yaml` script from this GitHub repository.
-- Open your terminal, type `docker-compose.yaml`, and press enter.
+- Open your terminal, type `docker-compose up -d`, and press enter.
 - Open TablePlus, click on the "+" sign for a new connection, and choose PostgreSQL.
 
 
