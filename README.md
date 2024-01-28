@@ -6,6 +6,7 @@
 - [Docker](https://www.docker.com/products/docker-desktop/)
 - [TablePlus](https://tableplus.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/downloads/)
 
 ## Section 2: Setup
 - Copy the `docker-compose.yaml` script from this GitHub repository.
