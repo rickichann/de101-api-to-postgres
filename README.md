@@ -12,7 +12,7 @@
 - Copy the `docker-compose.yaml` script from this GitHub repository.
 - Open your terminal, type `docker-compose up -d`, and press enter.
 - Open TablePlus, click on the "+" sign for a new connection, and choose PostgreSQL.
-- pip3 install -r requirements.txt 
+- pip3 install -r requirements.txt / pip install -r requirements.txt 
 
 ## Section 3: Create Table in PostgreSQL
 
