@@ -15,7 +15,7 @@
 
 ## Section 3: Create Table in PostgreSQL
 
-CREATE TABLE customer_data (
+`CREATE TABLE customer_data (
     unique_code VARCHAR(255) PRIMARY KEY,
     first_name VARCHAR(255),
     last_name VARCHAR(255),
@@ -28,7 +28,7 @@ CREATE TABLE customer_data (
     picture VARCHAR(255),
     post_code VARCHAR(10),
     address VARCHAR(255)
-);
+);`
 
 ## Section 4: 
 
