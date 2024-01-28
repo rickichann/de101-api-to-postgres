@@ -29,8 +29,8 @@
     picture VARCHAR(255),
     post_code VARCHAR(10),
     address VARCHAR(255)
-);```
-
+);
+```
 ## Section 4: 
 
 
