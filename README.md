@@ -2,7 +2,7 @@
 
 🚀 **Ongoing Project!**
 
-## Section 1: Running Postgres Locally with Docker
+## Module 1: Running Postgres Locally with Docker
 - Download and install:
   - [Docker](https://www.docker.com/products/docker-desktop/)
   - [TablePlus](https://tableplus.com/)
