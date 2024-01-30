@@ -1,4 +1,0 @@
-sqlalchemy
-pandas
-notebook
-psycopg2-binary
