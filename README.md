@@ -6,6 +6,7 @@
 - Download and install:
   - [Docker](https://www.docker.com/products/docker-desktop/)
   - [TablePlus](https://tableplus.com/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
 - Copy the `docker-compose.yaml` script from this GitHub repository.
 - Open your terminal, type `docker-compose up -d`, and press enter.
 - Open TablePlus, click on the "+" sign for a new connection, and choose PostgreSQL.
