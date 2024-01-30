@@ -2,19 +2,21 @@
 
 🚀 **Ongoing Project!**
 
-## Section 1: Download and Install
+## Section 1: Running Postgres Locally with Docker
 - [Docker](https://www.docker.com/products/docker-desktop/)
 - [TablePlus](https://tableplus.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Python](https://www.python.org/downloads/)
-
-## Section 2: Setup
 - Copy the `docker-compose.yaml` script from this GitHub repository.
 - Open your terminal, type `docker-compose up -d`, and press enter.
 - Open TablePlus, click on the "+" sign for a new connection, and choose PostgreSQL.
-- pip3 install -r requirements.txt / pip install -r requirements.txt 
-
-## Section 3: Create Table in PostgreSQL
+- Database Configuration
+```
+  - host: localhost
+  - port: 5432
+  - user: root
+  - password: root123
+  - database: devel
+```
+- Run the query below:
 
 ```
 CREATE TABLE customer_data (
@@ -32,8 +34,4 @@ CREATE TABLE customer_data (
     address VARCHAR(255)
 );
 ```
-## Section 4: 
 
-
-
-![image](https://github.com/rickichann/yt-de101-api-to-postgres/assets/53082147/5b84c480-17d5-41f2-a644-22575b1a3493)
