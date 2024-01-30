@@ -3,8 +3,11 @@
 🚀 **Ongoing Project!**
 
 ## Section 1: Running Postgres Locally with Docker
-- [Docker](https://www.docker.com/products/docker-desktop/)
-- [TablePlus](https://tableplus.com/)
+- Download and install:
+```
+  - [Docker](https://www.docker.com/products/docker-desktop/)
+  - [TablePlus](https://tableplus.com/)
+```
 - Copy the `docker-compose.yaml` script from this GitHub repository.
 - Open your terminal, type `docker-compose up -d`, and press enter.
 - Open TablePlus, click on the "+" sign for a new connection, and choose PostgreSQL.
