@@ -1,4 +1,4 @@
-# yt-de101-api-to-postgres
+# yt-de101-running-postgres-locally-with-docker
 
 🚀 **Ongoing Project!**
 
