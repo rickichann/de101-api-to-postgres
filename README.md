@@ -37,3 +37,4 @@ CREATE TABLE customer_data (
 );
 ```
 
+## Module 2: Insert data into PostgreSQL using Python
