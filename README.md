@@ -38,3 +38,9 @@ CREATE TABLE customer_data (
 ```
 
 ## Module 2: Insert data into PostgreSQL using Python
+
+- Install Python Libraries, copy requirements.txt from this GitHub repository
+- Open your terminal, type pip ```install -r requirements.txt``` or ```pip3 install -r requirements.txt```, and press enter.
+- In your terminal open jupyter notebook ```jupyter notebook```
+
+
