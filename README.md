@@ -36,6 +36,7 @@ CREATE TABLE customer_data (
     address VARCHAR(255)
 );
 ```
+- shutting down docker: ```docker compose down```
 
 ## Module 2: Insert data into PostgreSQL using Python
 
