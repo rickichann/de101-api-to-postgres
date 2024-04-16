@@ -1,4 +1,11 @@
-# yt-de101-running-postgres-locally-with-docker
+# yt-de101
+
+Data Architecture: 
+
+![de101yt](https://github.com/rickichann/yt-de101-running-postgres-locally-with-docker/assets/53082147/1b00a7e5-d815-468b-a0a4-1a25501a7277)
+
+
+
 
 🚀 **Ongoing Project!**
 
