@@ -80,7 +80,7 @@ WHERE
 - Run python code !
 
 
-## Module 3: Creating a Data Source in Looker Studio.
+## Module 4: Creating a Data Source in Looker Studio.
 
 - Click https://lookerstudio.google.com/u/0/navigation/reporting
 - Create >> Data Source >> Google Sheets >> All Items
