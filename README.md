@@ -60,6 +60,7 @@ FROM
 WHERE
       registered_date >= '2015-01-01 00:00:00'; 
 ```
+- Create a blank spreadsheet : https://docs.google.com/spreadsheets/u/0/ and schema (unique_code, full_name, phone, email and age)
 - Enable Google Cloud API
   - Go to the Google Cloud Console https://console.cloud.google.com/?hl=id
   - Click on the "Navigation menu" (three lines) and select "APIs & Services" > "Library".
@@ -70,3 +71,6 @@ WHERE
   - In service accounts click email >> keys >> add key >> create new key >> json >> create
 
 - Run python code !
+
+
+
