@@ -80,4 +80,14 @@ WHERE
 - Run python code !
 
 
+## Module 3: Creating a Data Source in Looker Studio.
+
+- Click https://lookerstudio.google.com/u/0/navigation/reporting
+- Create >> Data Source >> Google Sheets >> All Items
+- Choose Spreadsheet "customer_data" >> worksheet "tbl_customer_info"
+- Change "Untitled Data Source" -> "DS > Customer Info"
+- Connect
+- Create report !
+
+
 
