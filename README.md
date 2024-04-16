@@ -45,4 +45,28 @@ CREATE TABLE customer_data (
 - In your terminal open jupyter notebook ```jupyter notebook```
 - Execution ```de101-etl.ipynb```
 
+## Module 3: Seamless Data Transfer: PostgreSQL to Google Sheets Using Python
+- Install gspread library, ```pip install gspread``` or ```pip3 install gspread```
+- Extract data from postgreSQL using below query:
+```
+SELECT
+      unique_code,
+      concat(first_name,' ',last_name) full_name,
+      phone,
+      email,
+      CAST(DATE_PART('year', AGE(dob)) AS INT) AS age
+FROM
+      customer_data
+WHERE
+      registered_date >= '2015-01-01 00:00:00'; 
+```
+- Enable Google Cloud API
+  - Go to the Google Cloud Console https://console.cloud.google.com/?hl=id
+  - Click on the "Navigation menu" (three lines) and select "APIs & Services" > "Library".
+  - Search for "Google Sheets API" in the search bar.
+  - Click on "Google Sheets API" from the search results.
+  - Click on the "Enable" button to enable the API.
+  - Add email in gsheets,
+  - In service accounts click email >> keys >> add key >> create new key >> json >> create
 
+- Run python code !
