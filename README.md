@@ -36,12 +36,13 @@ CREATE TABLE customer_data (
     address VARCHAR(255)
 );
 ```
-- shutting down docker: ```docker compose down```
+- shutting down docker: ```docker-compose down```
 
 ## Module 2: Insert data into PostgreSQL using Python
 
 - Install Python Libraries, copy requirements.txt from this GitHub repository
-- Open your terminal, type pip ```install -r requirements.txt``` or ```pip3 install -r requirements.txt```, and press enter.
+- Open your terminal, type pip ```pip install -r requirements.txt``` or ```pip3 install -r requirements.txt```, and press enter.
 - In your terminal open jupyter notebook ```jupyter notebook```
+- Execution ```de101-etl.ipynb```
 
 
